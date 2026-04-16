@@ -39,7 +39,11 @@ A premium, interactive data visualization dashboard built with **React**, **Vite
    ```
 
 3. **Environment Variables**:
-   The `.env` file is already included and pre-configured with the necessary Supabase credentials for this project.
+   Create a `.env` file in the root directory and add the following:
+   ```env
+   VITE_SUPABASE_URL=https://knpchfkozppmenmdbxwb.supabase.co
+   VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtucGNoZmtvenBwbWVubWRieHdiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ3MjI1NDcsImV4cCI6MjA5MDI5ODU0N30.A9pE86QJLSi9Q53_0KqJlpLFXYnQjOpqEr8-O-CC0eY
+   ```
 
 4. **Run the development server**:
    ```bash
