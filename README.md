@@ -30,7 +30,7 @@ A premium, interactive data visualization dashboard built with **React**, **Vite
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PixelNayt/Applications_Development_Midterm_Project_Big_Data.git
    ```
 
 2. **Install dependencies**:
